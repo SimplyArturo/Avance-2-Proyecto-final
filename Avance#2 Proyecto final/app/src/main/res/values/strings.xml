@@ -1,0 +1,27 @@
+<resources>
+    <!-- App General -->
+    <string name="app_name">Aplicación de Notas</string>
+
+    <!-- AddNoteDialog -->
+    <string name="add_note">Agregar Nota</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="is_task">¿Es una tarea?</string>
+    <string name="task_due_date">Fecha de vencimiento</string>
+    <string name="capture_image">Capturar Imagen</string>
+    <string name="select_from_gallery">Seleccionar desde Galería</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- EditNoteDialog -->
+    <string name="edit_note">Editar Nota</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- Navigation -->
+    <string name="home">Inicio</string>
+    <string name="add_note_nav">Agregar Nota</string>
+    <string name="delete_note">Eliminar nota</string>
+
+
+</resources>
